@@ -1,18 +1,21 @@
 # Hackathon Template Folder and README
 
 # Name of the Project
-
+Neon Stage
 (Put your logo here if you have one )
 
 ## Pitch of the project
-
-(context, problematic, solution, 200 words)
+To bridge the gap between small musicians, event organizers, screen managers and techinal vfx creating tools.
+(context, problematic, solution,)
 
 ## Team
-
+Omar, Geoffrey, Bryan, Vincent, Clara
 Names + organisation + picture
 
 ## Structure of the folder
+
+https://www.canva.com/design/DAG60jJFSJE/Gyou4vHi-RCxMFPowoJ2Pg/edit?utm_content=DAG60jJFSJE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAG6vyFwqpM/Qi9kGan49nXbpd7BHaHN_w/edit?utm_content=DAG6vyFwqpM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 We need all the source files that you used, you can organise your repo as you see fit.
 If you used Miro, Figma or any other cloud based tools please put the links of the source files and add the exported documents.
